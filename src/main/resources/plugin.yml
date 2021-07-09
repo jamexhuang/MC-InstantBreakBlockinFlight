@@ -1,0 +1,6 @@
+name: InstantBreakBlockinFlight
+version: ${project.version}
+main: me.treexhd.mc.instantbreakinflight.instantbreakblockinflight.InstantBreakBlockinFlight
+api-version: 1.16
+authors: [ TreexHD ]
+website: www.treexhd.me
